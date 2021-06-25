@@ -1,0 +1,7 @@
+How the internet works:
+
+This is a super complicated concept that I am still trying to grasp. But my simplified explanation is that the internet is a network of networks(computers) passing and requesting information back and forth.
+
+When you click a link on the web, your computer(client) sends a request to a nearby server which may be able to return a response for that request. If the nearest server cannot handle it, the request will move to the next nearest server and the next until it can.
+
+When a server finally able to send back a response, it does so but not all at once. It will send the requested information back in pieces called packages and those packages are reassembled on your machine where you view them and do merrily on your way, clicking more links and requesting more information from servers all over the world, ad nauseum. 

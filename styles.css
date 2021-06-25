@@ -1,0 +1,79 @@
+body {
+  background: #f7c1bb;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Montserrat", sans-serif;
+}
+
+nav {
+  border-bottom: 2px solid #db7f8e;
+}
+
+ol {
+  padding-left: 0;
+}
+
+.crumb {
+  margin-right: 2em;
+  display: inline;
+  color: #f7f7ff;
+}
+.crumb:hover {
+  background-color: #db7f8e;
+  color: white;
+}
+a {
+  color: orange;
+}
+
+a:visited {
+  color: crimson;
+}
+
+input {
+  display: block;
+}
+
+img {
+  max-width: 400px;
+}
+#name {
+  font-size: 60px;
+}
+.button-section {
+  display: flex;
+  width: 500px;
+}
+.fun-button {
+  background-color: #fee440;
+  height: 50px;
+  width: 100px;
+  margin: 35px;
+  border-radius: 20%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100px;
+  box-shadow: 5px, 5px, 2px, #5b5b5b;
+}
+
+.fun-button:hover {
+  opacity: 50%;
+  background-color: #5b5b5b;
+  color: #f7f7ff;
+  border: solid #f7f7ff 3px;
+}
+#contact {
+  background-color: #f7f7ff;
+  border: solid #5b5b5b 2px;
+  padding: 8px;
+}
+#submit {
+  background-color: #db7f8e;
+  height: 35px;
+  width: 100px;
+  border-radius: 10%;
+}
+#submit:hover {
+  opacity: 75%;
+}
