@@ -20,5 +20,5 @@ favePlace.addEventListener("click", () => {
     alert("Italy is my favorite place")
 })
 faveRitual.addEventListener("click", () => {
-    alert("I like to burn sage")
+    alert("I like to burn sage when I'm feeling superstitious")
 })

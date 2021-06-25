@@ -25,11 +25,13 @@ ol {
   color: white;
 }
 a {
-  color: #db7f8e;
-}
-
-a:visited {
   color: crimson;
+}
+a:hover {
+  background-color: #db7f8e;
+}
+a:visited {
+  color: db7f8e;
 }
 
 input {
@@ -51,10 +53,11 @@ img {
   height: 50px;
   width: 100px;
   margin: 35px;
-  border-radius: 20%;
+  border-radius: 10%;
   font-family: "Montserrat", sans-serif;
   font-weight: 100px;
   box-shadow: 5px, 5px, 2px, #5b5b5b;
+  display: block;
 }
 
 .fun-button:hover {
@@ -79,4 +82,9 @@ img {
 }
 #trinity-groves-banner {
   width: 100%;
+}
+.check-container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
 }
