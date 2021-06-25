@@ -25,7 +25,7 @@ ol {
   color: white;
 }
 a {
-  color: orange;
+  color: #db7f8e;
 }
 
 a:visited {
@@ -76,4 +76,7 @@ img {
 }
 #submit:hover {
   opacity: 75%;
+}
+#trinity-groves-banner {
+  width: 100%;
 }
