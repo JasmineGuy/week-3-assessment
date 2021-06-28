@@ -88,3 +88,12 @@ img {
   padding: 10px;
   justify-content: space-between;
 }
+.neighborhood-text {
+  width: 100%;
+}
+#attraction-randomizer {
+  background-color: #db7f8e;
+  height: 75px;
+  width: 100px;
+  border-radius: 10%;
+}
